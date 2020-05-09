@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Valid</string>
+    <string name="api_key">829751643419a7128b7ada50de590067</string>
+    <string name="error_show_information">Error al cargar la lista de Artistas</string>
+    <string name="error_load_data">Error al consultar la información</string>
+    <string name="loading">Cargando</string>
+    <string name="artistsimage">artistsImage</string>
+</resources>
